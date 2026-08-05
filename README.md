@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Shikha-1434/Shikha-1434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏢 About Me
 
-Here are some ideas to get you started:
+I am a former Economics subject matter expert transitioned into a Data Analyst passionate about bridging quantitative economic theory with modern data analytics. Love leveraging data modeling and technology to solve complex economic challenges, track important metrics, and uncover actionable trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 **Based in:** Dehradun
+- ✉️ **Reach me at:** [shikhanautiyal.work@gmail.com](mailto:shikhanautiyal.work@gmail.com)
+- 💼 **Connect with me on:** [LinkedIn](https://linkedin.com)www.linkedin.com/in/shikha-nautiyal-ecoanalyst
+
+---
+
+## 🛠️ Core Tech Stack & Tools
+
+- 📊 **Data Analytics:** Microsoft Excel, Google Sheets, Power BI, SQL (Foundational)
+- 🧠 **Domain Expertise:** Macroeconomics, Microeconomics,International Economics,Statistical Analysis, Mathematical Modeling
