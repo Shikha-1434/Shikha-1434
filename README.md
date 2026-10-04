@@ -6,7 +6,7 @@ I am a former Economics subject matter expert transitioned into a Data Analyst p
 
 - 📍 **Based in:** Dehradun
 - ✉️ **Reach me at:** [shikhanautiyal.work@gmail.com](mailto:shikhanautiyal.work@gmail.com)
-- 💼 **Connect with me on:** [LinkedIn](https://linkedin.com)www.linkedin.com/in/shikha-nautiyal-ecoanalyst
+- 💼 **Connect with me on:** [LinkedIn](https://linkedin.com)www.linkedin.com/in/shikha-nautiyal-data-analyst
 
 ---
 
